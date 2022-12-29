@@ -1,0 +1,3 @@
+LIBRARY "mspaintDLL"
+EXPORTS
+  RunShellcode
